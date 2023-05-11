@@ -31,7 +31,7 @@ width:fit-content;
 `
 
 const Container = styled.div`
-// width:75%;
+ width:90%;
 margin:2rem auto;
 
 display: flex;
